@@ -1,2 +1,2 @@
-My first readme;
-This is the only time I'm doing this from here.
+My first readme
+The only time here
